@@ -1,0 +1,145 @@
+
+ 
+ {
+    "groceryStoreItems": [
+      {
+        "name": "Fresh Apples",
+        "pic": "https://source.unsplash.com/random/200x200?sig=1",
+        "price": 2.99,
+        "description": "Crisp and juicy apples, perfect for snacking."
+      },
+      {
+        "name": "Organic Milk",
+        "pic": "https://source.unsplash.com/random/200x200?sig=2",
+        "price": 3.49,
+        "description": "Nutrient-rich organic milk for a healthy lifestyle."
+      },
+      {
+        "name": "Whole Grain Bread",
+        "pic": "https://source.unsplash.com/random/200x200?sig=3",
+        "price": 2.79,
+        "description": "Heart-healthy whole grain bread, freshly baked."
+      },
+      {
+        "name": "Fresh Salmon",
+        "pic": "https://source.unsplash.com/random/200x200?sig=4",
+        "price": 9.99,
+        "description": "Premium quality fresh salmon, perfect for seafood lovers."
+      },
+      {
+        "name": "Organic Spinach",
+        "pic": "https://source.unsplash.com/random/200x200?sig=5",
+        "price": 1.99,
+        "description": "Nutrient-packed organic spinach for your salads and smoothies."
+      },
+      {
+        "name": "Ripe Bananas",
+        "pic": "https://source.unsplash.com/random/200x200?sig=6",
+        "price": 1.49,
+        "description": "Sweet and ripe bananas, a healthy snack choice."
+      },
+      {
+        "name": "Ground Coffee",
+        "pic": "https://source.unsplash.com/random/200x200?sig=7",
+        "price": 6.99,
+        "description": "High-quality ground coffee for your morning brew."
+      },
+      {
+        "name": "Greek Yogurt",
+        "pic": "https://source.unsplash.com/random/200x200?sig=8",
+        "price": 2.29,
+        "description": "Creamy Greek yogurt, a versatile dairy option."
+      },
+      {
+        "name": "Quinoa",
+        "pic": "https://source.unsplash.com/random/200x200?sig=9",
+        "price": 4.99,
+        "description": "Nutrient-dense quinoa, a great addition to your meals."
+      },
+      {
+        "name": "Fresh Strawberries",
+        "pic": "https://source.unsplash.com/random/200x200?sig=10",
+        "price": 3.99,
+        "description": "Delicious and sweet strawberries, perfect for desserts."
+      },
+      {
+        "name": "Almond Butter",
+        "pic": "https://source.unsplash.com/random/200x200?sig=11",
+        "price": 5.49,
+        "description": "Smooth almond butter, a nutritious spread option."
+      },
+      {
+        "name": "Green Tea Bags",
+        "pic": "https://source.unsplash.com/random/200x200?sig=12",
+        "price": 2.99,
+        "description": "High-quality green tea bags for a refreshing beverage."
+      },
+      {
+        "name": "Honey",
+        "pic": "https://source.unsplash.com/random/200x200?sig=13",
+        "price": 3.79,
+        "description": "Pure and natural honey, a sweetener with health benefits."
+      },
+      {
+        "name": "Cucumbers",
+        "pic": "https://source.unsplash.com/random/200x200?sig=14",
+        "price": 1.29,
+        "description": "Fresh and crunchy cucumbers, perfect for salads."
+      },
+      {
+        "name": "Chia Seeds",
+        "pic": "https://source.unsplash.com/random/200x200?sig=15",
+        "price": 4.49,
+        "description": "Nutrient-packed chia seeds, a superfood addition."
+      },
+      {
+        "name": "Olive Oil",
+        "pic": "https://source.unsplash.com/random/200x200?sig=16",
+        "price": 7.99,
+        "description": "Extra virgin olive oil for cooking and dressing."
+      },
+      {
+        "name": "Sweet Potatoes",
+        "pic": "https://source.unsplash.com/random/200x200?sig=17",
+        "price": 2.69,
+        "description": "Nutrient-rich sweet potatoes, a versatile ingredient."
+      },
+      {
+        "name": "Dark Chocolate",
+        "pic": "https://source.unsplash.com/random/200x200?sig=18",
+        "price": 3.99,
+        "description": "Indulge in the richness of dark chocolate."
+      },
+      {
+        "name": "Tomatoes",
+        "pic": "https://source.unsplash.com/random/200x200?sig=19",
+        "price": 1.99,
+        "description": "Fresh and flavorful tomatoes, a kitchen staple."
+      },
+      {
+        "name": "Coconut Water",
+        "pic": "https://source.unsplash.com/random/200x200?sig=20",
+        "price": 2.49,
+        "description": "Hydrating coconut water for a refreshing drink."
+      },
+      {
+        "name": "Mixed Nuts",
+        "pic": "https://source.unsplash.com/random/200x200?sig=21",
+        "price": 8.99,
+        "description": "Assorted mixed nuts for a healthy snack."
+      },
+      {
+        "name": "Lemonade",
+        "pic": "https://source.unsplash.com/random/200x200?sig=22",
+        "price": 1.79,
+        "description": "Classic and refreshing lemonade for any occasion."
+      },
+      {
+        "name": "Avocados",
+        "pic": "https://source.unsplash.com/random/200x200?sig=23",
+        "price": 2.99,
+        "description": "Classic fruit for health"
+      }
+    ]
+  }
+  

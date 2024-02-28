@@ -1,0 +1,25 @@
+/* Navbar.css */
+
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: #2980b9;
+  padding: 15px 0;
+  text-align: center;
+  color: #fff;
+  z-index: 1000; /* Ensure navbar is on top of other content */
+}
+
+.navbar a {
+  color: #fff;
+  text-decoration: none;
+  margin: 0 15px;
+  font-size: 18px;
+}
+
+/* Optional styles */
+.navbar a:hover {
+  color: #ffd700; /* Change color on hover */
+}

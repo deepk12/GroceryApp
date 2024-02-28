@@ -1,0 +1,81 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+/* App.css */
+
+.achi-image {
+  width: 200px; /* Adjust the width as needed */
+  height: auto; /* Maintain the aspect ratio */
+  border-radius: 8px; /* Add rounded corners if desired */
+  margin-top: 20px; /* Add margin if needed */
+}
+
+
+/* App.css */
+
+.flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+  margin: 30px;
+ 
+}
+
+.text-gray-600 {
+  color: #333; /* Set your text color */
+}
+
+@keyframes floatIn {
+  0% {
+    transform: translateY(-100%);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+
+h1 {
+  font-size: 3rem; /* Adjust font size as needed */
+  animation: floatIn 1s ease-out; /* Adjust animation duration and timing function */
+}
