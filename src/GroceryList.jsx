@@ -6,7 +6,7 @@ import { useState, useEffect } from 'react';
 
 const GroceryList = ({ groceryStoreItems }) => {
     
-    console.log("hello");
+    console.log("grocery list");
 
     const [animate, setAnimate] = useState(false);
 

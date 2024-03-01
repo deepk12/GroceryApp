@@ -8,12 +8,14 @@ import SearchBar from './Search'
 import achiImage from './assets/achi.png';
 import Banner from './Banner';
 import 'animate.css'; 
+import { BrowserRouter ,Routes,Router} from 'react-router-dom';
 
 
 
 function App() {
     const [data,setdata] = useState(groceryData.groceryStoreItems);
     const [hai,sethai] = useState(false);
+    console.log("app")
 
     const handleSearch = (searchQuery) => {
       const filtered = data.filter(item =>

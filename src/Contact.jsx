@@ -5,6 +5,7 @@
 // eslint-disable-next-line no-unused-vars
 import React, { useState } from 'react';
 import './Contact.css'; // Import CSS file
+import Navbar from './Navbar';
 
 const Contact = () => {
   const [formData, setFormData] = useState({
@@ -36,6 +37,7 @@ const Contact = () => {
 
   return (
     <>
+    <Navbar></Navbar>
       <div className="contact-container" style={{ backgroundImage: `url('./image/two.jpeg')`, backgroundSize: 'cover', backgroundPosition: 'center', backgroundRepeat: 'no-repeat' }}>
         <div className="title-bar">
           <h2>Contact Us</h2>
