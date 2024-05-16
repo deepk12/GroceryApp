@@ -1,0 +1,68 @@
+.about-section {
+    display: flex;
+    justify-content: justify;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px;
+    text-align: center;
+  }
+  .about-heading{
+    font-size: 46px;
+
+  }
+  
+  h1 {
+    font-size: 46px;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .image {
+    width: 1400px; /* Adjust image width as needed */
+    margin-bottom: 20px; /* Add some space between the image and text */
+  }
+  
+  .about-text {
+    text-align: left;
+  }
+  
+  .container {
+    max-width: 1200px; /* Adjust maximum width of the text container */
+  }
+  
+  .section-title {
+    font-size: 34px;
+    margin-bottom: 30px; /* Add some space below the heading */
+  }
+  
+  .section-subtitle {
+    font-size: 30px;
+    margin-bottom: 10px; /* Add some space below the subtitle */
+  }
+  
+  .paragraph {
+    margin-bottom: 10px; /* Add some space below each paragraph */
+  }
+  
+  .link {
+    color: blue; /* Change link color as needed */
+    text-decoration: none;
+  }
+  
+  .link:hover {
+    text-decoration: underline; /* Add underline on hover for links */
+  }
+  body {
+    background-color: lightgrey;
+    color: blue;
+  }
+/*   
+  h1 {
+    background-color: black;
+    color: white;
+  }
+  
+  div {
+    background-color: rgb(175, 173, 230);
+    color: white;
+  } */
